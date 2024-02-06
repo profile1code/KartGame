@@ -1,0 +1,8 @@
+FOV 60 
+Stiffness 0.7 
+Distance 3.5 
+Height 1 
+Angle 10 
+Username Name     
+Automatic False 
+GearRatio 1.8 
