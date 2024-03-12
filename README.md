@@ -5,4 +5,6 @@
 
 ![image](https://github.com/profile1code/KartGame/assets/102771910/ab48ca3c-ebef-47f1-a00c-09bfbcc1271b)
 
+![image](https://github.com/profile1code/KartGame/assets/102771910/08e15d89-c88e-44de-8c98-ecc0c12f78a0)
+
 ![image](https://github.com/profile1code/KartGame/assets/102771910/d5b67a50-fcd4-4271-b546-853459b7107e)
